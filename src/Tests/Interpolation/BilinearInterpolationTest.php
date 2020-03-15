@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Runalyze\DEM\tests\Interpolation;
+namespace Runalyze\DEM\Tests\Interpolation;
 
 use Runalyze\DEM\Interpolation\BilinearInterpolation;
 
